@@ -1,0 +1,1 @@
+/usr/bin/cc  -std=gnu11 -std=gnu11    CMakeFiles/miracled.dir/miracled.c.o  -o miracled -rdynamic shared/libmiracle-shared.a -lsystemd 

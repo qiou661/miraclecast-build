@@ -1,0 +1,1 @@
+/usr/bin/cc  -std=gnu11    CMakeFiles/test_rtsp.dir/test_rtsp.c.o  -o test_rtsp -rdynamic ../src/shared/libmiracle-shared.a -ludev -lglib-2.0 -lcheck_pic -lrt -lm -lsubunit -pthread -lsystemd 

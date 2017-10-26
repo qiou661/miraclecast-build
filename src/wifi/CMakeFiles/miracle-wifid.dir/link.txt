@@ -1,0 +1,1 @@
+/usr/bin/cc  -std=gnu11 -std=gnu11    CMakeFiles/miracle-wifid.dir/wifid.c.o CMakeFiles/miracle-wifid.dir/wifid-dbus.c.o CMakeFiles/miracle-wifid.dir/wifid-link.c.o CMakeFiles/miracle-wifid.dir/wifid-peer.c.o CMakeFiles/miracle-wifid.dir/wifid-supplicant.c.o  -o miracle-wifid -rdynamic ../shared/libmiracle-shared.a -ludev -lglib-2.0 -lsystemd 

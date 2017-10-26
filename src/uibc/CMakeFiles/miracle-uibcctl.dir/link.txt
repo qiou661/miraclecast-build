@@ -1,0 +1,1 @@
+/usr/bin/cc  -std=gnu11 -std=gnu11    CMakeFiles/miracle-uibcctl.dir/miracle-uibcctl.c.o  -o miracle-uibcctl -rdynamic ../shared/libmiracle-shared.a -lm -lsystemd 

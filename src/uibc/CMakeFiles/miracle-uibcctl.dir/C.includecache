@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../src/shared/shl_log.h
+errno.h
+-
+stdarg.h
+-
+stdbool.h
+-
+stdlib.h
+-
+
+/opt/miraclecast/src/uibc/miracle-uibcctl.c
+miracle-uibcctl.h
+/opt/miraclecast/src/uibc/miracle-uibcctl.h
+
+/opt/miraclecast/src/uibc/miracle-uibcctl.h
+stdio.h
+-
+string.h
+-
+inttypes.h
+-
+unistd.h
+-
+stdbool.h
+-
+stdlib.h
+-
+netdb.h
+-
+arpa/inet.h
+-
+math.h
+-
+shl_log.h
+/opt/miraclecast/src/uibc/shl_log.h
+

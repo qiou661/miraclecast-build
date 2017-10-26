@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmiracle-shared.a  CMakeFiles/miracle-shared.dir/rtsp.c.o CMakeFiles/miracle-shared.dir/shl_htable.c.o CMakeFiles/miracle-shared.dir/shl_log.c.o CMakeFiles/miracle-shared.dir/shl_ring.c.o CMakeFiles/miracle-shared.dir/shl_util.c.o CMakeFiles/miracle-shared.dir/wpas.c.o
+/usr/bin/ranlib libmiracle-shared.a

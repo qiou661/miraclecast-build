@@ -1,0 +1,10 @@
+/usr/local/bin/miracled
+/usr/local/bin/miracle-wifid
+/usr/local/bin/miracle-dhcp
+/usr/local/bin/miracle-wifictl
+/usr/local/bin/miracle-sinkctl
+/usr/local/bin/miracle-uibcctl
+/usr/local/bin/miracle-gst
+/usr/local/bin/gstplayer
+/usr/local/bin/uibc-viewer
+/etc/dbus-1/system.d/org.freedesktop.miracle.conf

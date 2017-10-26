@@ -1,0 +1,1 @@
+/usr/bin/cc  -std=gnu11 -std=gnu11    CMakeFiles/miracle-sinkctl.dir/ctl-cli.c.o CMakeFiles/miracle-sinkctl.dir/ctl-sink.c.o CMakeFiles/miracle-sinkctl.dir/ctl-wifi.c.o CMakeFiles/miracle-sinkctl.dir/sinkctl.c.o CMakeFiles/miracle-sinkctl.dir/wfd.c.o  -o miracle-sinkctl -rdynamic -lglib-2.0 -lreadline ../shared/libmiracle-shared.a -lsystemd 

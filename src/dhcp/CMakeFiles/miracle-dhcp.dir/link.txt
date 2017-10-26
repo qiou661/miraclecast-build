@@ -1,0 +1,1 @@
+/usr/bin/cc  -std=gnu11 -std=gnu11    CMakeFiles/miracle-dhcp.dir/dhcp.c.o CMakeFiles/miracle-dhcp.dir/common.c.o CMakeFiles/miracle-dhcp.dir/ipv4ll.c.o CMakeFiles/miracle-dhcp.dir/client.c.o CMakeFiles/miracle-dhcp.dir/server.c.o  -o miracle-dhcp -rdynamic -ludev -lglib-2.0 ../shared/libmiracle-shared.a -lsystemd 

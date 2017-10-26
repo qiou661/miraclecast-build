@@ -1,0 +1,1 @@
+/usr/bin/cc  -std=gnu11 -std=gnu11    CMakeFiles/miracle-wifictl.dir/ctl-cli.c.o CMakeFiles/miracle-wifictl.dir/ctl-wifi.c.o CMakeFiles/miracle-wifictl.dir/wifictl.c.o  -o miracle-wifictl -rdynamic -lreadline ../shared/libmiracle-shared.a -lglib-2.0 -lsystemd 

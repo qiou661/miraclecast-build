@@ -1,0 +1,1 @@
+/usr/bin/cc  -std=gnu11    CMakeFiles/test_valgrind.dir/test_valgrind.c.o  -o test_valgrind -rdynamic ../src/shared/libmiracle-shared.a -ludev -lglib-2.0 -lcheck_pic -lrt -lm -lsubunit -pthread -lsystemd 
